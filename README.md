@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello! I'm Abi Turner 👋</h2>
+<h2 align="center">Hello! I'm Abi 👋</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abi-turner-670aa3122/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
