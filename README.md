@@ -6,12 +6,13 @@
   <a href="mailto:turner.abi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I'm a recent graduate from the Command Shift bootcamp, aspiring to be a junior software developer. I have experience working with JavaScript, CSS, React, Node.js, and SQL in my projects.
+I am a passionate junior developer, experienced in Javascript and am confident with front end development using React in a test driven manner. Inspired by exposure to technological advancements transforming food retail, I recently completed the Command Shift coding bootcamp learning full stack development. 
 
 ### 🌱 Seeking Junior Software Developer Roles
 
-I'm actively looking for opportunities to kick-start my career as a junior software developer. I'm passionate about creating impactful solutions and eager to learn and grow in a collaborative environment.
+I am an experienced problem solver, collaborating, planning and looking for ways to continuously improve to add value. These skills, alongside enthusiasm to continuously learn and embrace new challenges have laid a great foundation for my journey into software development.
 
 Let's connect and collaborate on exciting projects! Don't hesitate to reach out via LinkedIn or email. I look forward to hearing from you.
+
 
 <!-- Feel free to customize this template to fit your own profile -->
