@@ -13,6 +13,8 @@ I'm a graduate from the Command Shift coding bootcamp seeking a career change in
   <a href="mailto:turner.abi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
-  <a href="Abi_Turner_CV.pdf" style="text-decoration:none;"><button>Download My CV</button></a>
+  <a href="Abi_Turner_CV.pdf" style="text-decoration:none;"><button>📥 Download My CV</button></a>
 </p>
+
+
 
